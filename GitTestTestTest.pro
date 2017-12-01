@@ -5,7 +5,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 TARGET = GitTestTestTest
 TEMPLATE = app
 
-//Comments added
+//Comments added added
 
 SOURCES += main.cpp\
         widget.cpp
