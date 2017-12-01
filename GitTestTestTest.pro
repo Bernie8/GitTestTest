@@ -6,7 +6,7 @@ TARGET = GitTestTestTest
 TEMPLATE = app
 
 //Comments added added
-//COMMENTS
+//COMMENTS//COMMENTS
 
 SOURCES += main.cpp\
         widget.cpp
